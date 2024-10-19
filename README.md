@@ -1,4 +1,4 @@
-# Social Media Image Resizing Chrome Extension
+# PicTailor - A Social Media Image Resizer Chrome Extension
 
 ## About
 This Chrome extension allows users to resize images according to social media platform requirements such as Facebook, Instagram, Twitter, and LinkedIn. It supports both preset dimensions and custom input for resizing, along with the option to choose output formats like JPEG, PNG, etc.
